@@ -1,2 +1,7 @@
 ﻿This is the copy of Flaskr in Flask example.
 I added 'update' and 'delete' operations in it.
+
+To init db use:
+>>>from database import init_db
+>>>init_db()
+
